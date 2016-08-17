@@ -1,12 +1,18 @@
-Difficulty: [-]/10
+Difficulty: 2/10
 Time:
-  preparation: [-]
-  baking: [-]
+  preparation: 30 minutes
+  baking: 10 minutes 
 
 ------------------------
 Ingredients (50 pieces):
 ------------------------
-[-]
+80g  flour
+80g  corn starch
+120g sugar
+7    eggs
+Vanilla
+1   lemon (zest only of half a lemon)
+powdered sugar
 
 ----------
 Procedure:
