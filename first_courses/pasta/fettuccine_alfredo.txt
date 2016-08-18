@@ -17,4 +17,4 @@ celery
 ----------
 Procedure:
 ----------
-[-]
+boil water, add salt, cook fettuccine. Shortcuts.
