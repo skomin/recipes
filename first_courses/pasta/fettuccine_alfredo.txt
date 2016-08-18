@@ -1,11 +1,11 @@
 Difficulty: 
 Time:
-  preparation: [-]
+  preparation: [10mins]
   
 ------------------------
 Ingredients (4 people):
 ------------------------
-100g pasta
+100g pasta (Fettuccine)
 100g butter
 100g parmesan cheese
 olive oil
